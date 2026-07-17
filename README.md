@@ -8,9 +8,12 @@
 本项目成功在 4,727 个高质量细胞中区分出了 19 个高度特异性的细胞亚群，涵盖了根部几乎所有核心组织：
 *   **Epidermis**: Root Hair (Cluster 0), Non-hair (Cluster 10)
 *   **Cortex**: Cortex (Cluster 4), Elongating Cortex (Cluster 12)
-*   **Endodermis**: (Cluster 9 - CASP1+ 凯氏带细胞)
+*   **Endodermis**: (Cluster 9 - CASP1)
 *   **Pericycle**: Pericycle (Cluster 7), Active Pericycle (Cluster 6)
 *   **Vascular**: Xylem (Cluster 2), Phloem (Cluster 3), Companion Cells (Cluster 16)
 *   **Root Cap**: Lateral Root Cap (Cluster 1), Columella (Cluster 5, 8)
 *   **Stem Cell Niche**: Stem Cell Niche / QC (Cluster 18)
 
+## 📝 Citations
+**Original Paper**: Denyer, T., Ma, X., Klesen, S. et al. *Spatiotemporal Developmental Trajectories in the Arabidopsis Root Revealed Using High-Throughput Single-Cell RNA Sequencing*. **Dev Cell**, 2019. 
+**GEO Accession**: [GSE123818](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123818)
